@@ -15,7 +15,7 @@ Employers post jobs and manage applicants, and administrators maintain the caree
 
 ### How the "AI" works
 
-The project uses a **rule-based recommendation engine** (as planned in the synopsis):
+The project uses a **rule-based recommendation engine**:
 
 - `CareerRecommendationEngine` scores each career out of 100:
   **80%** skill coverage (candidate level vs. the level the career requires) + **20%** interest-keyword match.
