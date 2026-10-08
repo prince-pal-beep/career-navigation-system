@@ -1,0 +1,7 @@
+@"
+target/
+.vscode/
+.idea/
+*.class
+src/main/resources/db.properties
+"@ | Out-File -Encoding ascii .gitignore
